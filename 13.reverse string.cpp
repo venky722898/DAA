@@ -1,28 +1,14 @@
 #include <stdio.h>
 #include <string.h>
 
-void reverseString(char str[]) {
-    int length = strlen(str);
-    int start = 0;
-    int end = length - 1;
-    char temp;
-
-    while (start < end) {
-        // Swap the characters
-        temp = str[start];
-        str[start] = str[end];
-        str[end] = temp;
-        start++;
-        end--;
-    }
-}
 int main() {
-	printf("K.Venkateswari(192210620)\n");
+	printf("K.Venkateswqri (192210620)\n");
     char str[100];
+    int length;
     printf("Enter a string: ");
     fgets(str, sizeof(str), stdin);
     str[strcspn(str, "\n")] = 0;
-    reverseString(str);
-    printf("Reversed string: %s\n", str);
+    length = strlen(str);
+    printf("Length of the string: %d\n", length);
     return 0;
 }
