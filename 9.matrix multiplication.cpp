@@ -19,7 +19,7 @@ void print_matrix(int matrix[][10], int row, int col) {
 }
 
 int main() {
-	printf("G.Vishnu Sanjeev (192210101)\n");
+	printf("K.Venkateswari (192210620\n"); 
     int row1, col1, row2, col2;
     printf("Enter rows and columns for the first matrix: ");
     scanf("%d %d", &row1, &col1);
