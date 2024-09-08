@@ -12,7 +12,7 @@ bool is_prime(int num) {
     return true;
 }
 int main() {
-	printf("G.Vishnu Sanjeev (192210101)\n");
+	printf("K.Venkateswari (192210620\n"); 
     int num;
     printf("Enter an integer: ");
     scanf("%d", &num);
