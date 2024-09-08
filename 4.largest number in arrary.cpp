@@ -1,7 +1,8 @@
 #include <stdio.h>
 
-int main() {
-	printf("G.Vishnu Sanjeev (192210101)\n");
+int main()
+{
+	printf("K.Venkateswari (192210620\n"); 
     int n, i;
     int max;
     printf("Enter the number of elements in the array: ");
