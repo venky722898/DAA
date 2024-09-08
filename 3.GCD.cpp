@@ -6,7 +6,7 @@ int gcd(int a, int b) {
 }
 
 int main() {
-	printf("G.Vishnu Sanjeev (192210101)\n");
+	printf("K.Venkateswari (192210620\n"); 
     int num1, num2;
 
     printf("Enter two integers: ");
