@@ -26,8 +26,7 @@ int tsp(int graph[N][N], int dp[1 << N][N], int mask, int pos) {
 }
 
 int main() {
-	printf("G.Vishnu Sanjeev (192210101)\n");
-    // Adjacency matrix representing the graph
+	printf("K.Venkateswari (192210620\n"); 
     int graph[N][N] = {
         {0, 10, 15, 20},
         {10, 0, 35, 25},
