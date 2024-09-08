@@ -32,7 +32,7 @@ int optimalSearchTree(int keys[], int freq[], int n) {
 int main() {
     int keys[] = {10, 12, 20};
     int freq[] = {34, 8, 50};
-    printf("G.Vishnu Sanjeev (192210101)\n");
+    printf("K.Venkateswari (192210620\n"); 
     int n = sizeof(keys) / sizeof(keys[0]);
     printf("Cost of Optimal BST is %d\n", optimalSearchTree(keys, freq, n));
     return 0;
