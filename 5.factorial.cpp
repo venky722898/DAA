@@ -7,7 +7,7 @@ unsigned long long factorial(int n) {
 }
 
 int main() {
-		printf("G.Vishnu Sanjeev (192210101)\n");
+		printf("K.Venkateswari (192210620\n"); 
     int num;
     unsigned long long result;
     printf("Enter an integer: ");
