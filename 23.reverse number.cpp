@@ -11,7 +11,7 @@ int reverseNumber(int num) {
 
 int main() {
     int num = 12345;
-    printf("G.Vishnu sanjeev (192210101)\n");
+    printf("K.Venkateswari (192210620\n"); 
     printf("Reverse of %d is %d\n", num, reverseNumber(num));
     return 0;
 }
