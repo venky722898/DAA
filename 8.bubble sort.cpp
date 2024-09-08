@@ -20,7 +20,7 @@ void print_array(int arr[], int size) {
 }
 
 int main() {
-printf("G.Vishnu Sanjeev (192210101)\n");
+printf("K.Venkateswari (192210620\n"); 
     int n, i;
     printf("Enter the number of elements: ");
     scanf("%d", &n);
