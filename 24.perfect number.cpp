@@ -21,12 +21,9 @@ int isPerfect(int num) {
 
 int main() {
     int num;
-    printf("G.Vishnu Sanjeev (192210101)\n");
-    // Input number
+   printf("K.Venkateswari (192210620\n"); 
     printf("Enter a number to check if it is a perfect number: ");
     scanf("%d", &num);
-
-    // Check and print result
     if (isPerfect(num)) {
         printf("%d is a perfect number.\n", num);
     } else {
