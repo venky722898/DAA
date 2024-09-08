@@ -70,7 +70,7 @@ void printArray(int a[], int n)
 
 int main()  
 { 
-printf("G Vishnu Sanjeev (192210101)\n"); 
+printf("K.Venkateswari (192210620\n"); 
     int a[] = { 12, 31, 25, 8, 32, 17, 40, 42 };  
     int n = sizeof(a) / sizeof(a[0]);  
     printf("Before sorting array elements are - \n");  
